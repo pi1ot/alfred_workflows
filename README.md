@@ -13,17 +13,17 @@ jEdit.alfredworkflow
 	- j {file}:		open file with jedit
 	- e {text}:		edit text with jedit
 * hotkey:
-	- ctrl-cmd-j		open selected file with jedit
-	- ctrl-cmd-e		edit selected text with jedit
-	- ctrl-cmd-p		edit clipboard text with jedit
+	- ctrl-cmd-j:		open selected file with jedit
+	- ctrl-cmd-e:		edit selected text with jedit
+	- ctrl-cmd-p:		edit clipboard text with jedit
 * tips:
 	- change path of jedit.app and paste_new.bsh first
 	
 Quick Search & Browse.alfredworkflow
 ------------------------------------
 * hotkey:
-	- ctrl-cmd-g		search selected word
-	- ctrl-cmd-l		open selected url
+	- ctrl-cmd-g:		search selected word
+	- ctrl-cmd-l:		open selected url
 
 Sina Workflow.alfredworkflow
 ----------------------------
