@@ -24,6 +24,7 @@ Quick Search & Browse.alfredworkflow
 * hotkey:
 	- ctrl-cmd-g:		search selected word
 	- ctrl-cmd-l:		open selected url
+	- ctrl-cmd-t:		translate selected words ( en -> cn )
 
 Sina Workflow.alfredworkflow
 ----------------------------
