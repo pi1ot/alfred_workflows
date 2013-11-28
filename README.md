@@ -7,6 +7,14 @@ Search Tools.alfredworkflow
 * google和wikipedia接口默认通过本地goagent代理（127.0.0.1:8087）和HTTPS访问，若需修改请编辑search.py中set_proxy()函数
 * 因谷歌、微博、知乎未提供不限流量可匿名访问的API，故其结果均为解析HTML输出而得，若有改版可能失效
 
+google-translate-cli.alfredworkflow
+-----------------------------------
+* input window:
+	- zh {words}:		translate words into chinese
+	- en {words}:		translate words into english
+* depends on google-translate-cli
+	- https://github.com/soimort/google-translate-cli
+	
 jEdit.alfredworkflow
 --------------------
 * input window:
