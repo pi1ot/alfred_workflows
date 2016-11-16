@@ -33,7 +33,3 @@ Quick Search & Browse.alfredworkflow
 	- ctrl-cmd-g:		search selected word
 	- ctrl-cmd-l:		open selected url
 	- ctrl-cmd-t:		translate selected words ( en -> cn )
-
-Sina Workflow.alfredworkflow
-----------------------------
-Sina Staff Internal Only 
