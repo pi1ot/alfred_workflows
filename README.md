@@ -1,6 +1,15 @@
 alfred_workflows
 ================
 
+Safari UserAgent Switcher.alfredworkflow
+---------------------------
+用于快速修改Safari当前页面的UserAgent并刷新，主要用途是快速切换不支持H5视频播放的网站到iPad/iPhone方式
+默认启动命令“ua”，支持选项：auto/ipad/iphone
+依赖：
+1、将Alfred加入隐私控制名单
+2、在Safari偏好设置中打开显示“开发”菜单
+3、AppleScript控制菜单点击和系统语言及App版本有关，非中文版本Safari 10用户需要自己修改Workflow中的AppleScript代码
+
 Search Tools.alfredworkflow
 ---------------------------
 * 谷歌(g)、维基百科(k)、微博(w)、知乎(z)、必应(b)、新浪新闻(n)、IMFDB(imf)的实时搜索工具，括号中为默认热键
